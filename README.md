@@ -8,4 +8,5 @@
 <li>Gunicorn, go "pip install gunicorn"</li>
 <li>Python-decouple, go "pip install python-decouple"</li>
 <li>Django Database URL, go "pip install dj-database-url"</li>
+  <li>An Internet Connection</li>
 </ul>
