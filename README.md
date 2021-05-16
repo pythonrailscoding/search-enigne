@@ -10,3 +10,7 @@
 <li>Django Database URL, go "pip install dj-database-url"</li>
   <li>An Internet Connection</li>
 </ul>
+If on going "pip freeze", the version number of these libraries have changed and you also have made some changes, go like:<br>
+pip freeze > requirements.txt<br/>
+To Update your requirements.txt file
+
