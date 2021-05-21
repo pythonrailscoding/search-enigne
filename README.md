@@ -5,6 +5,7 @@
 <li>Requests, go for "pip install requests"</li>
 <li>lxml, go "pip install lxml"</li>
 <li>BeautifulSoup, go "pip install bs4"</li>
+  <hr><b>For Heroku</b>
 <li>Gunicorn, go "pip install gunicorn"</li>
 <li>Python-decouple, go "pip install python-decouple"</li>
 <li>Django Database URL, go "pip install dj-database-url"</li>
